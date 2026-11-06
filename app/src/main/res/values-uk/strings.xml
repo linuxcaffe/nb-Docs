@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_launcher_name">Документи</string>
+    <string name="app_launcher_name">nb Docs</string>
     <string name="adjust_search_or_filters">Спробуйте інший пошук або фільтр.</string>
     <string name="all_documents">Всі документи</string>
     <string name="clear_recent_documents">Очистити останні</string>

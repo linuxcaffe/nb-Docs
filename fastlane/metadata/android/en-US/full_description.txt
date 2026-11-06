@@ -1,3 +1,5 @@
+nb Docs is Fossify Documents with additions for Markdown notes and nb notebooks: front matter as a card, links between notes, sync status, and files made, renamed, moved and deleted where you browse. All credit for the app itself goes to the Fossify team.<br><br>
+
 Fossify Documents is a private, offline document reader and organizer built for simplicity. Open PDF, DOCX, text, Markdown, CSV, TSV, and HTML files, and keep important documents within easy reach without ads, tracking, or internet access.<br><br>
 
 <b>📄 READ DOCUMENTS WITH EASE</b><br>

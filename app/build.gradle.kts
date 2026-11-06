@@ -28,11 +28,13 @@ val abiCodes = mapOf("armeabi-v7a" to 1, "arm64-v8a" to 2, "x86" to 3, "x86_64" 
 val abiSplits = providers.gradleProperty("ABI_SPLITS").map(String::toBoolean).getOrElse(false)
 
 base {
-    archivesName = "documents-$baseVersionCode"
+    archivesName = "nb-docs-$baseVersionCode"
 }
 
 android {
-    namespace = project.property("APP_ID").toString()
+    // nb Docs: the app installs as APP_ID, but the code keeps Fossify's package (R, imports),
+    // so merges from upstream stay small
+    namespace = "org.fossify.documents"
     compileSdk = project.libs.versions.app.build.compileSDKVersion.get().toInt()
 
     defaultConfig {
@@ -153,7 +155,7 @@ if (abiSplits) {
                 val unsignedSuffix =
                     if (output.outputFileName.get().endsWith("-unsigned.apk")) "-unsigned" else ""
                 output.versionCode.set(versionCode)
-                output.outputFileName.set("documents-$versionCode-foss${abiSuffix}-release${unsignedSuffix}.apk")
+                output.outputFileName.set("nb-docs-$versionCode-foss${abiSuffix}-release${unsignedSuffix}.apk")
             }
         }
     }

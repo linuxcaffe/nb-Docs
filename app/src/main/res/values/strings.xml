@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_launcher_name">Documents</string>
+    <string name="app_launcher_name">nb Docs</string>
     <string name="adjust_search_or_filters">Try a different search or filter.</string>
     <string name="all_documents">All documents</string>
     <string name="clear_recent_documents">Clear recents</string>

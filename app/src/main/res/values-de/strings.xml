@@ -10,7 +10,7 @@
     <string name="filter_csv">CSV</string>
     <string name="filter_html">HTML</string>
     <string name="folders">Ordner</string>
-    <string name="app_launcher_name">Dokumente</string>
+    <string name="app_launcher_name">nb Docs</string>
     <plurals name="document_text_chars">
         <item quantity="one">%1$d Zeichen</item>
         <item quantity="other">%1$d Zeichen</item>

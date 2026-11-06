@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_launcher_name">文件</string>
+    <string name="app_launcher_name">nb Docs</string>
     <string name="adjust_search_or_filters">請嘗試其他搜尋或篩選條件。</string>
     <string name="all_documents">所有文件</string>
     <string name="clear_recent_documents">清除最近使用</string>

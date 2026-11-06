@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="documents">Dokumenti</string>
-    <string name="app_launcher_name">Dokumenti</string>
+    <string name="app_launcher_name">nb Docs</string>
     <string name="adjust_search_or_filters">Poskusite z drugim iskanjem ali filtrom.</string>
     <string name="all_documents">Vsi dokumenti</string>
     <string name="clear_recent_documents">Počisti nedavno</string>

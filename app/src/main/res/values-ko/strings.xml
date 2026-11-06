@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_launcher_name">문서</string>
+    <string name="app_launcher_name">nb Docs</string>
     <string name="adjust_search_or_filters">다른 검색어 또는 필터를 적용해 보십시오.</string>
     <string name="all_documents">모든 문서</string>
     <string name="clear_recent_documents">최근 문서 지우기</string>

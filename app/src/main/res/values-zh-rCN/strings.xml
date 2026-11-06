@@ -36,7 +36,7 @@
     <string name="format_heading">标题</string>
     <string name="folder_unavailable">文件夹不可用</string>
     <string name="remove_from_documents">从文档中移除</string>
-    <string name="app_launcher_name">文档</string>
+    <string name="app_launcher_name">nb Docs</string>
     <string name="read_only">只读</string>
     <string name="retry">重试</string>
     <string name="folders">文件夹</string>
