@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Fixed list/grid view resetting when reopening the app
+- No "fake version" warning: nb Docs is a credited fork with its own app id, not a copy of Fossify Documents
 
 ## [1.1.0] - 2026-10-10
 ### Added
